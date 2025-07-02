@@ -26,7 +26,7 @@ BrainFizz is an interactive and fun Android quiz app designed to challenge your 
 
 ## 📦 Download
 
-👉 **[Click here to download the latest APK](https://github.com/your-username/brainfizz/releases/latest/download/app-release.apk)**
+👉 **[Click here to download the latest APK](https://github.com/kumarpiyushv0/Quiz_App/blob/master/app/release/app-release.apk)**
 
 > You may need to enable "Install from unknown sources" in your Android device settings.
 
