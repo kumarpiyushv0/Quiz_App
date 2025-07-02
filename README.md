@@ -18,8 +18,8 @@ BrainFizz is an interactive and fun Android quiz app designed to challenge your 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27816697-f80a-4927-acc5-2b0c66a5ae25" width="300" alt="BrainFizz Screenshot 1" />
   <img src="https://github.com/user-attachments/assets/0b20dae6-86c3-4d6a-b119-f39781febf4e" width="300" alt="BrainFizz Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/27816697-f80a-4927-acc5-2b0c66a5ae25" width="300" alt="BrainFizz Screenshot 1" />
 </p>
 
 ---
