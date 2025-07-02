@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Brainfizz</string>
+    <string name="quiz_app">Brainfizz</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="image_flag">Image Flag</string>
+    <string name="_0_10">0/10</string>
+    <string name="check">Check</string>
+    <string name="score">Score</string>
+</resources>

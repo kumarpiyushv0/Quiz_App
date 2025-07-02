@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <group
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:translateX="3.6"
+        android:translateY="3.6">
+
+        <!-- Shadow (behind everything slightly offset) -->
+        <path
+            android:fillColor="#5E3370"
+            android:fillAlpha="0.4"
+            android:pathData="M9.2,2.3a3,3 0 0,0 -3,3v1a2,2 0 0,0 -2,2v0.3a2,2 0 0,0 0.7,3.8v1a1.5,1.5 0 0,0 1.5,1.5a1.5,1.5 0 0,0 1,-0.3v2a0.8,0.8 0 0,0 1.5,0v-1h1v-6H9.2V9.3a0.8,0.8 0 0,1 1.5,0v1h1.3V5.3a3,3 0 0,0 -3,-3z
+                M15.2,2.3a3,3 0 0,1 3,3v1a2,2 0 0,1 2,2v0.3a2,2 0 0,1 -0.7,3.8v1a1.5,1.5 0 0,1 -1.5,1.5a1.5,1.5 0 0,1 -1,-0.3v2a0.8,0.8 0 0,1 -1.5,0v-1h-1v-6h1.5V9.3a0.8,0.8 0 0,0 -1.5,0v1h-1.3V5.3a3,3 0 0,1 3,-3z"/>
+
+        <!-- Main body (darker base) -->
+        <path
+            android:fillColor="#222DA0"
+            android:pathData="M9,2a3,3 0 0,0 -3,3v1a2,2 0 0,0 -2,2v0.3a2,2 0 0,0 0.7,3.8v1a1.5,1.5 0 0,0 1.5,1.5a1.5,1.5 0 0,0 1,-0.3V20a0.8,0.8 0 0,0 1.5,0v-1h1v-6H9V9a0.8,0.8 0 0,1 1.5,0v1H12V5a3,3 0 0,0 -3,-3z"/>
+
+        <path
+            android:fillColor="#039E1B"
+            android:pathData="M15,2a3,3 0 0,1 3,3v1a2,2 0 0,1 2,2v0.3a2,2 0 0,1 -0.7,3.8v1a1.5,1.5 0 0,1 -1.5,1.5a1.5,1.5 0 0,1 -1,-0.3V20a0.8,0.8 0 0,1 -1.5,0v-1h-1v-6h1.5V9a0.8,0.8 0 0,0 -1.5,0v1H12V5a3,3 0 0,1 3,-3z"/>
+
+        <!-- Highlight -->
+        <path
+            android:fillColor="#E1BEE7"
+            android:fillAlpha="0.4"
+            android:pathData="M10.3,5.5c-0.7,0.8 -1,1.5 -1,2.2s0.3,1.5 1,2.2M13.7,5.5c0.7,0.8 1,1.5 1,2.2s-0.3,1.5 -1,2.2"/>
+
+        <!-- Folds (darker for depth) -->
+        <path
+            android:strokeColor="#6C3483"
+            android:strokeWidth="0.4"
+            android:fillColor="#00000000"
+            android:pathData="M11,12.5c0.4,0.4 0.7,0.8 0.7,1.2s-0.3,1 -1,1.5M13,12.5c-0.4,0.4 -0.7,0.8 -0.7,1.2s0.3,1 1,1.5"/>
+    </group>
+</vector>
